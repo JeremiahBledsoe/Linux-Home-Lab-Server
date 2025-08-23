@@ -1,20 +1,21 @@
-# Remote Windows Server Setup
+# Home Lab Windows/Linux Server
 
-An educational project where I set up a remote-access Windows server. I configured secure user access, enabled Remote Desktop Protocol (RDP), and tested basic administration tasks.
+Set up a personal home lab with both Windows and Linux servers to practice system administration, remote access, and network management.
 
 ## Tools & Tech
-- Windows Server (local install)
-- RDP
-- Networking / Firewall settings
+- Windows Server
+- Linux (Debian)
+- RDP/SSH
+- Networking & Firewall configurations
 - User account management
 
 ## Key Tasks
-- Installed Windows Server on a local machine
-- Enabled and tested Remote Desktop access
-- Created and managed user accounts
-- Configured firewall and security policies
+- Installed and configured Windows Server with RDP access
+- Set up Linux server with SSH and administrative tools
+- Managed users, permissions, and network/firewall settings
+- Practiced cross-platform server administration and troubleshooting
 
 ## Skills Demonstrated
-- Windows system administration
+- Windows and Linux server administration
 - Secure remote access setup
-- Server maintenance and troubleshooting
+- System maintenance and troubleshooting
